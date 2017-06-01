@@ -1,0 +1,21 @@
+{
+  "name": "random-compliment",
+  "version": "1.0.0",
+  "description": "API for emergency compliment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "compliment",
+    "random",
+    "emergency"
+  ],
+  "author": "srobertson421",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
